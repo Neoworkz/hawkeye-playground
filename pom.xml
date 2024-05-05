@@ -7,10 +7,11 @@
 
     <artifactId>member-management</artifactId>
     <groupId>org.neoworkz.services</groupId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
 
     <inceptionYear>2022</inceptionYear>
 
     <name>Neoworkz : Member Management</name>
+
 </project>
