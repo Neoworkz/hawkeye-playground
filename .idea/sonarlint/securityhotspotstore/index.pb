@@ -213,3 +213,5 @@ Q.idea/sonarlint/securityhotspotstore/d/6/d64ec56a705db86958aafb7f322be0e6fa595e
 Q.idea/sonarlint/securityhotspotstore/c/e/ce7799643a95553c6bee1d403d6cb738907a7f2c,2/7/279a79a9d9151a9959cd88cbae53cc58d712a5b2
 w
 G.idea/sonarlint/issuestore/e/0/e0ea4108d198a3d2e4e87c48063db9d2bffad652,2/a/2a9311e96aa8916b56f3a6141f738b0dde184a70
+X
+(services/hawkeye-playground-api/kitt.yml,e/a/eadf75b7fa94cb552aa056895f67cba0e40bb72a
