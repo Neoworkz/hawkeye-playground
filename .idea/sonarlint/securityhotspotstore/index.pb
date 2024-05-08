@@ -89,3 +89,5 @@ Q.idea/sonarlint/securityhotspotstore/6/4/64876b8bea138a82803d0008198401e04ab468
 Q.idea/sonarlint/securityhotspotstore/6/3/637ba3bd6846d42b397f94857551bd0124bc225e,e/c/ece3704c7630b51f8176b7369587f029d9c90737
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+@
+hawkeye-kitt.yml,c/0/c0009cbe5644dd217fa38c87b3f686fcad74c0d3

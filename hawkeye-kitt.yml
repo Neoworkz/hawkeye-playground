@@ -1,0 +1,17 @@
+
+notify:
+  slack:
+    channelName: "hawkeye-playground-kitt"
+
+deploy:
+  skip: true
+  stages:
+    - name: pr
+      refs: [ main, "Release-202[0-9]{1}[0-9]{2}-[0-9]{1,2}" ]
+    - name: dev
+      refs: [ main, "Release-202[0-9]{1}[0-9]{2}-[0-9]{1,2}" ]
+    - name: qa
+      refs: [ main, "Release-202[0-9]{1}[0-9]{2}-[0-9]{1,2}" ]
+
+services:
+  - path: services/playground-api/kitt.yml
