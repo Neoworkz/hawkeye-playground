@@ -1,0 +1,7 @@
+build:
+  artifact: platform-api
+  docker:
+    app:
+      buildArgs:
+        serviceName: services/hawkeye-playground-api
+        servicePath: services/hawkeye-playground-api
