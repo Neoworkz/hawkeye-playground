@@ -2,19 +2,21 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>member-management</artifactId>
-    <modules>
-        <module>services</module>
-    </modules>
-    <groupId>org.neoworkz.services</groupId>
-    <version>1.0.1</version>
+    <parent>
+        <groupId>org.neoworkz.services</groupId>
+        <artifactId>member-management</artifactId>
+        <version>1.0.1</version>
+    </parent>
+
+    <groupId>org.neoworkz.platform</groupId>
+    <artifactId>services</artifactId>
     <packaging>pom</packaging>
 
-    <inceptionYear>2022</inceptionYear>
+    <modules>
+        <module>hawkeye-playground-api</module>
+    </modules>
 
-    <name>Neoworkz : Member Management</name>
 
 </project>
