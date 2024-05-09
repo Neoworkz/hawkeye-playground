@@ -10,5 +10,8 @@
         <module name="hawkeye-playground-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hawkeye-playground" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
