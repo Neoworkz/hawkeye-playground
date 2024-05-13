@@ -10,7 +10,7 @@
         <module>services</module>
     </modules>
     <groupId>org.neoworkz.services</groupId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>pom</packaging>
 
     <inceptionYear>2022</inceptionYear>
